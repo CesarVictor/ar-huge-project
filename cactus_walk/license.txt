@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cactus Walk
+* source:	https://sketchfab.com/3d-models/cactus-walk-5a165086aa164d5fabed5fdff382baa4
+* author:	Will (https://sketchfab.com/willbrown-98)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cactus Walk" (https://sketchfab.com/3d-models/cactus-walk-5a165086aa164d5fabed5fdff382baa4) by Will (https://sketchfab.com/willbrown-98) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
